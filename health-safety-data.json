@@ -1,0 +1,116 @@
+{
+  "operationalSafety": {
+    "title": "1. Operational Safety",
+    "categories": {
+      "equipmentOperation": {
+        "name": "Equipment Operation",
+        "elements": [
+          "Lawn mowers",
+          "Edgers",
+          "Aerators",
+          "Sprayers",
+          "Hand tools"
+        ],
+        "controlMeasures": [
+          "Pre-use inspections",
+          "Maintenance schedules",
+          "Operator training",
+          "Safe storage protocols",
+          "Equipment-specific risk assessments"
+        ]
+      },
+      "chemicalManagement": {
+        "name": "Chemical Management",
+        "elements": [
+          "Fertilizers",
+          "Pesticides",
+          "Herbicides",
+          "Fungicides"
+        ],
+        "controlMeasures": [
+          "COSHH assessments",
+          "Storage requirements",
+          "Mixing procedures",
+          "Application methods",
+          "Disposal protocols"
+        ]
+      },
+      "vehicleSafety": {
+        "name": "Vehicle Safety",
+        "elements": [
+          "Company vehicles",
+          "Trailers",
+          "Loading/unloading"
+        ],
+        "controlMeasures": [
+          "Daily vehicle checks",
+          "License requirements",
+          "Load securing",
+          "Maintenance schedule",
+          "Journey planning"
+        ]
+      }
+    }
+  },
+  "personnelSafety": {
+    "title": "2. Personnel Safety",
+    "categories": {
+      "ppe": {
+        "name": "Personal Protective Equipment",
+        "elements": [
+          "Head protection",
+          "Eye protection",
+          "Hearing protection",
+          "Hand protection",
+          "Foot protection",
+          "Weather protection"
+        ],
+        "controlMeasures": [
+          "PPE assessment",
+          "Issue records",
+          "Inspection schedules",
+          "Replacement procedures",
+          "Training on proper use"
+        ]
+      },
+      "training": {
+        "name": "Training & Competency",
+        "elements": [
+          "Equipment operation",
+          "Chemical handling",
+          "First aid",
+          "Manual handling",
+          "Emergency response"
+        ],
+        "controlMeasures": [
+          "Training needs analysis",
+          "Certification tracking",
+          "Refresher schedules",
+          "Competency assessment",
+          "Training records"
+        ]
+      }
+    }
+  },
+  "emergencyResponse": {
+    "title": "3. Emergency Response",
+    "categories": {
+      "medicalEmergencies": {
+        "name": "Medical Emergencies",
+        "elements": [
+          "First aid",
+          "Major incidents",
+          "Heat stress",
+          "Chemical exposure"
+        ],
+        "controlMeasures": [
+          "First aid kits",
+          "Emergency contacts",
+          "Response procedures",
+          "Medical facilities",
+          "Incident reporting"
+        ]
+      }
+    }
+  }
+}
