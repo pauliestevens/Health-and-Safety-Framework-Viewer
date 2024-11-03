@@ -1,4 +1,3 @@
-# Health-and-Safety-Framework-Viewer
 # Health and Safety Framework Viewer
 
 A React-based interactive viewer for managing and displaying health and safety documentation, specifically designed for lawn care and landscaping businesses. This component provides a searchable, filterable interface for accessing operational safety guidelines, personnel safety requirements, and emergency response procedures.
